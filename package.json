@@ -1,0 +1,15 @@
+{
+  "name": "claw",
+  "version": "0.0.1",
+  "description": "A mini web crawler based on io.js/node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "crawler",
+    "stock"
+  ],
+  "author": "Archer Zhao <zlming1015@gmail.com>",
+  "license": "MIT"
+}
